@@ -4,7 +4,7 @@ Algoritmo "teste_matriz"
 Var
 
    M, N, i, j : inteiro
-   A : vetor [0..5, 0..5] de inteiro
+   A : vetor [0..4, 0..4] de inteiro
 
 
 Inicio
@@ -25,7 +25,7 @@ Inicio
    escreval("MATRIZ DIGITADA:")
       para i de 0 ate M-1 faca
          para j de 0 ate N-1 faca
-         escreva(A[i,j])
+         escreva(A[i,j], " ")
       fimpara
       escreval
    fimpara
