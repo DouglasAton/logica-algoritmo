@@ -1,4 +1,4 @@
-Algoritmo "baskara_condicional"
+Algoritmo "baskara"
 
 
 Var
