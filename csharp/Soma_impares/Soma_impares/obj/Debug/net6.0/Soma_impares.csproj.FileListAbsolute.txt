@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\bin\Debug\net6.0\Soma_impares.exe
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\bin\Debug\net6.0\Soma_impares.deps.json
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\bin\Debug\net6.0\Soma_impares.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\bin\Debug\net6.0\Soma_impares.dll
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\bin\Debug\net6.0\Soma_impares.pdb
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\obj\Debug\net6.0\Soma_impares.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\obj\Debug\net6.0\Soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\obj\Debug\net6.0\Soma_impares.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\obj\Debug\net6.0\Soma_impares.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\obj\Debug\net6.0\Soma_impares.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\obj\Debug\net6.0\Soma_impares.dll
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\obj\Debug\net6.0\refint\Soma_impares.dll
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\obj\Debug\net6.0\Soma_impares.pdb
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\obj\Debug\net6.0\Soma_impares.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Soma_impares\Soma_impares\obj\Debug\net6.0\ref\Soma_impares.dll

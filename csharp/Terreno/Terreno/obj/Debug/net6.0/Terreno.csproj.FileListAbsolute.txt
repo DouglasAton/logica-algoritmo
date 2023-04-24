@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\bin\Debug\net6.0\Terreno.exe
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\bin\Debug\net6.0\Terreno.deps.json
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\bin\Debug\net6.0\Terreno.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\bin\Debug\net6.0\Terreno.dll
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\bin\Debug\net6.0\Terreno.pdb
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\obj\Debug\net6.0\Terreno.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\obj\Debug\net6.0\Terreno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\obj\Debug\net6.0\Terreno.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\obj\Debug\net6.0\Terreno.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\obj\Debug\net6.0\Terreno.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\obj\Debug\net6.0\Terreno.dll
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\obj\Debug\net6.0\refint\Terreno.dll
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\obj\Debug\net6.0\Terreno.pdb
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\obj\Debug\net6.0\Terreno.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Terreno\Terreno\obj\Debug\net6.0\ref\Terreno.dll

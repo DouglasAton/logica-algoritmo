@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\bin\Debug\net6.0\Glicose.exe
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\bin\Debug\net6.0\Glicose.deps.json
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\bin\Debug\net6.0\Glicose.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\bin\Debug\net6.0\Glicose.dll
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\bin\Debug\net6.0\Glicose.pdb
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\obj\Debug\net6.0\Glicose.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\obj\Debug\net6.0\Glicose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\obj\Debug\net6.0\Glicose.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\obj\Debug\net6.0\Glicose.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\obj\Debug\net6.0\Glicose.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\obj\Debug\net6.0\Glicose.dll
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\obj\Debug\net6.0\refint\Glicose.dll
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\obj\Debug\net6.0\Glicose.pdb
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\obj\Debug\net6.0\Glicose.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Glicose\Glicose\obj\Debug\net6.0\ref\Glicose.dll

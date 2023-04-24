@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\bin\Debug\net6.0\Validacao_de_nota.exe
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\bin\Debug\net6.0\Validacao_de_nota.deps.json
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\bin\Debug\net6.0\Validacao_de_nota.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\bin\Debug\net6.0\Validacao_de_nota.dll
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\bin\Debug\net6.0\Validacao_de_nota.pdb
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\obj\Debug\net6.0\Validacao_de_nota.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\obj\Debug\net6.0\Validacao_de_nota.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\obj\Debug\net6.0\Validacao_de_nota.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\obj\Debug\net6.0\Validacao_de_nota.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\obj\Debug\net6.0\Validacao_de_nota.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\obj\Debug\net6.0\Validacao_de_nota.dll
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\obj\Debug\net6.0\refint\Validacao_de_nota.dll
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\obj\Debug\net6.0\Validacao_de_nota.pdb
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\obj\Debug\net6.0\Validacao_de_nota.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Validacao_de_nota\Validacao_de_nota\obj\Debug\net6.0\ref\Validacao_de_nota.dll

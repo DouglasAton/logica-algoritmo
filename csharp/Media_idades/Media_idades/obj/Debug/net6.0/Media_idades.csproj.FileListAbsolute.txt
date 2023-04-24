@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\bin\Debug\net6.0\Media_idades.exe
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\bin\Debug\net6.0\Media_idades.deps.json
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\bin\Debug\net6.0\Media_idades.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\bin\Debug\net6.0\Media_idades.dll
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\bin\Debug\net6.0\Media_idades.pdb
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\obj\Debug\net6.0\Media_idades.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\obj\Debug\net6.0\Media_idades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\obj\Debug\net6.0\Media_idades.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\obj\Debug\net6.0\Media_idades.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\obj\Debug\net6.0\Media_idades.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\obj\Debug\net6.0\Media_idades.dll
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\obj\Debug\net6.0\refint\Media_idades.dll
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\obj\Debug\net6.0\Media_idades.pdb
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\obj\Debug\net6.0\Media_idades.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Media_idades\Media_idades\obj\Debug\net6.0\ref\Media_idades.dll

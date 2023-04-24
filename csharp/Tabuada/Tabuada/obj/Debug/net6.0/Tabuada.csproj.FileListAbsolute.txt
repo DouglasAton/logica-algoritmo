@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\bin\Debug\net6.0\Tabuada.exe
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\bin\Debug\net6.0\Tabuada.deps.json
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\bin\Debug\net6.0\Tabuada.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\bin\Debug\net6.0\Tabuada.dll
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\bin\Debug\net6.0\Tabuada.pdb
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\obj\Debug\net6.0\Tabuada.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\obj\Debug\net6.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\obj\Debug\net6.0\Tabuada.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\obj\Debug\net6.0\Tabuada.dll
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\obj\Debug\net6.0\refint\Tabuada.dll
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\obj\Debug\net6.0\Tabuada.pdb
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\obj\Debug\net6.0\Tabuada.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Tabuada\Tabuada\obj\Debug\net6.0\ref\Tabuada.dll

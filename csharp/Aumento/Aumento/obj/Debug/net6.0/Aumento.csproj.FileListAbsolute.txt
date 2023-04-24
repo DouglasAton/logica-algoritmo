@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\bin\Debug\net6.0\Aumento.exe
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\bin\Debug\net6.0\Aumento.deps.json
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\bin\Debug\net6.0\Aumento.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\bin\Debug\net6.0\Aumento.dll
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\bin\Debug\net6.0\Aumento.pdb
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\obj\Debug\net6.0\Aumento.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\obj\Debug\net6.0\Aumento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\obj\Debug\net6.0\Aumento.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\obj\Debug\net6.0\Aumento.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\obj\Debug\net6.0\Aumento.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\obj\Debug\net6.0\Aumento.dll
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\obj\Debug\net6.0\refint\Aumento.dll
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\obj\Debug\net6.0\Aumento.pdb
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\obj\Debug\net6.0\Aumento.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Aumento\Aumento\obj\Debug\net6.0\ref\Aumento.dll

@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\bin\Debug\net6.0\Dentro_fora.exe
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\bin\Debug\net6.0\Dentro_fora.deps.json
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\bin\Debug\net6.0\Dentro_fora.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\bin\Debug\net6.0\Dentro_fora.dll
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\bin\Debug\net6.0\Dentro_fora.pdb
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\obj\Debug\net6.0\Dentro_fora.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\obj\Debug\net6.0\Dentro_fora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\obj\Debug\net6.0\Dentro_fora.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\obj\Debug\net6.0\Dentro_fora.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\obj\Debug\net6.0\Dentro_fora.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\obj\Debug\net6.0\Dentro_fora.dll
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\obj\Debug\net6.0\refint\Dentro_fora.dll
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\obj\Debug\net6.0\Dentro_fora.pdb
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\obj\Debug\net6.0\Dentro_fora.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Dentro_fora\Dentro_fora\obj\Debug\net6.0\ref\Dentro_fora.dll

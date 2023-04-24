@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Soma\Soma\bin\Debug\net6.0\Soma.exe
+D:\Arquivos C#\ws-vs2022\Soma\Soma\bin\Debug\net6.0\Soma.deps.json
+D:\Arquivos C#\ws-vs2022\Soma\Soma\bin\Debug\net6.0\Soma.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Soma\Soma\bin\Debug\net6.0\Soma.dll
+D:\Arquivos C#\ws-vs2022\Soma\Soma\bin\Debug\net6.0\Soma.pdb
+D:\Arquivos C#\ws-vs2022\Soma\Soma\obj\Debug\net6.0\Soma.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Soma\Soma\obj\Debug\net6.0\Soma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Soma\Soma\obj\Debug\net6.0\Soma.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Soma\Soma\obj\Debug\net6.0\Soma.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Soma\Soma\obj\Debug\net6.0\Soma.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Soma\Soma\obj\Debug\net6.0\Soma.dll
+D:\Arquivos C#\ws-vs2022\Soma\Soma\obj\Debug\net6.0\refint\Soma.dll
+D:\Arquivos C#\ws-vs2022\Soma\Soma\obj\Debug\net6.0\Soma.pdb
+D:\Arquivos C#\ws-vs2022\Soma\Soma\obj\Debug\net6.0\Soma.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Soma\Soma\obj\Debug\net6.0\ref\Soma.dll

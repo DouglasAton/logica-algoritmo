@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\bin\Debug\net6.0\Coordenadas.exe
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\bin\Debug\net6.0\Coordenadas.deps.json
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\bin\Debug\net6.0\Coordenadas.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\bin\Debug\net6.0\Coordenadas.dll
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\bin\Debug\net6.0\Coordenadas.pdb
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.dll
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\obj\Debug\net6.0\refint\Coordenadas.dll
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.pdb
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Coordenadas\Coordenadas\obj\Debug\net6.0\ref\Coordenadas.dll

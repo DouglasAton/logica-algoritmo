@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\bin\Debug\net6.0\Mais_velho.exe
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\bin\Debug\net6.0\Mais_velho.deps.json
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\bin\Debug\net6.0\Mais_velho.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\bin\Debug\net6.0\Mais_velho.dll
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\bin\Debug\net6.0\Mais_velho.pdb
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\obj\Debug\net6.0\Mais_velho.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\obj\Debug\net6.0\Mais_velho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\obj\Debug\net6.0\Mais_velho.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\obj\Debug\net6.0\Mais_velho.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\obj\Debug\net6.0\Mais_velho.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\obj\Debug\net6.0\Mais_velho.dll
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\obj\Debug\net6.0\refint\Mais_velho.dll
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\obj\Debug\net6.0\Mais_velho.pdb
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\obj\Debug\net6.0\Mais_velho.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Mais_velho\Mais_velho\obj\Debug\net6.0\ref\Mais_velho.dll

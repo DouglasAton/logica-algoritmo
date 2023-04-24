@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\bin\Debug\net6.0\Media_pares.exe
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\bin\Debug\net6.0\Media_pares.deps.json
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\bin\Debug\net6.0\Media_pares.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\bin\Debug\net6.0\Media_pares.dll
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\bin\Debug\net6.0\Media_pares.pdb
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\obj\Debug\net6.0\Media_pares.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\obj\Debug\net6.0\Media_pares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\obj\Debug\net6.0\Media_pares.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\obj\Debug\net6.0\Media_pares.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\obj\Debug\net6.0\Media_pares.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\obj\Debug\net6.0\Media_pares.dll
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\obj\Debug\net6.0\refint\Media_pares.dll
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\obj\Debug\net6.0\Media_pares.pdb
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\obj\Debug\net6.0\Media_pares.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Media_pares\Media_pares\obj\Debug\net6.0\ref\Media_pares.dll

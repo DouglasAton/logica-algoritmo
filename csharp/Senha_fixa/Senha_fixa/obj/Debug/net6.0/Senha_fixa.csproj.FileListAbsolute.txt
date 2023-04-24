@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\bin\Debug\net6.0\Senha_fixa.exe
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\bin\Debug\net6.0\Senha_fixa.deps.json
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\bin\Debug\net6.0\Senha_fixa.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\bin\Debug\net6.0\Senha_fixa.dll
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\bin\Debug\net6.0\Senha_fixa.pdb
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\obj\Debug\net6.0\Senha_fixa.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\obj\Debug\net6.0\Senha_fixa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\obj\Debug\net6.0\Senha_fixa.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\obj\Debug\net6.0\Senha_fixa.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\obj\Debug\net6.0\Senha_fixa.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\obj\Debug\net6.0\Senha_fixa.dll
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\obj\Debug\net6.0\refint\Senha_fixa.dll
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\obj\Debug\net6.0\Senha_fixa.pdb
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\obj\Debug\net6.0\Senha_fixa.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Senha_fixa\Senha_fixa\obj\Debug\net6.0\ref\Senha_fixa.dll

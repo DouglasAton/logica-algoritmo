@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Idades\Idades\bin\Debug\net6.0\Idades.exe
+D:\Arquivos C#\ws-vs2022\Idades\Idades\bin\Debug\net6.0\Idades.deps.json
+D:\Arquivos C#\ws-vs2022\Idades\Idades\bin\Debug\net6.0\Idades.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Idades\Idades\bin\Debug\net6.0\Idades.dll
+D:\Arquivos C#\ws-vs2022\Idades\Idades\bin\Debug\net6.0\Idades.pdb
+D:\Arquivos C#\ws-vs2022\Idades\Idades\obj\Debug\net6.0\Idades.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Idades\Idades\obj\Debug\net6.0\Idades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Idades\Idades\obj\Debug\net6.0\Idades.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Idades\Idades\obj\Debug\net6.0\Idades.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Idades\Idades\obj\Debug\net6.0\Idades.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Idades\Idades\obj\Debug\net6.0\Idades.dll
+D:\Arquivos C#\ws-vs2022\Idades\Idades\obj\Debug\net6.0\refint\Idades.dll
+D:\Arquivos C#\ws-vs2022\Idades\Idades\obj\Debug\net6.0\Idades.pdb
+D:\Arquivos C#\ws-vs2022\Idades\Idades\obj\Debug\net6.0\Idades.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Idades\Idades\obj\Debug\net6.0\ref\Idades.dll

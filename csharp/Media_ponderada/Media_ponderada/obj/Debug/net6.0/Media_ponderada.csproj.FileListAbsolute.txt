@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\bin\Debug\net6.0\Media_ponderada.exe
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\bin\Debug\net6.0\Media_ponderada.deps.json
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\bin\Debug\net6.0\Media_ponderada.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\bin\Debug\net6.0\Media_ponderada.dll
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\bin\Debug\net6.0\Media_ponderada.pdb
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\obj\Debug\net6.0\Media_ponderada.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\obj\Debug\net6.0\Media_ponderada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\obj\Debug\net6.0\Media_ponderada.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\obj\Debug\net6.0\Media_ponderada.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\obj\Debug\net6.0\Media_ponderada.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\obj\Debug\net6.0\Media_ponderada.dll
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\obj\Debug\net6.0\refint\Media_ponderada.dll
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\obj\Debug\net6.0\Media_ponderada.pdb
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\obj\Debug\net6.0\Media_ponderada.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Media_ponderada\Media_ponderada\obj\Debug\net6.0\ref\Media_ponderada.dll

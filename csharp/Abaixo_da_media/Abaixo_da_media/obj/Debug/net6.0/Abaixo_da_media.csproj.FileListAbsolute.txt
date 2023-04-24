@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\bin\Debug\net6.0\Abaixo_da_media.exe
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\bin\Debug\net6.0\Abaixo_da_media.deps.json
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\bin\Debug\net6.0\Abaixo_da_media.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\bin\Debug\net6.0\Abaixo_da_media.dll
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\bin\Debug\net6.0\Abaixo_da_media.pdb
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\obj\Debug\net6.0\Abaixo_da_media.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\obj\Debug\net6.0\Abaixo_da_media.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\obj\Debug\net6.0\Abaixo_da_media.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\obj\Debug\net6.0\Abaixo_da_media.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\obj\Debug\net6.0\Abaixo_da_media.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\obj\Debug\net6.0\Abaixo_da_media.dll
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\obj\Debug\net6.0\refint\Abaixo_da_media.dll
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\obj\Debug\net6.0\Abaixo_da_media.pdb
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\obj\Debug\net6.0\Abaixo_da_media.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Abaixo_da_media\Abaixo_da_media\obj\Debug\net6.0\ref\Abaixo_da_media.dll

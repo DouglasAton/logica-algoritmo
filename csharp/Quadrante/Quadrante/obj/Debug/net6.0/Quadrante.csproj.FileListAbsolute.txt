@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\bin\Debug\net6.0\Quadrante.exe
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\bin\Debug\net6.0\Quadrante.deps.json
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\bin\Debug\net6.0\Quadrante.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\bin\Debug\net6.0\Quadrante.dll
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\bin\Debug\net6.0\Quadrante.pdb
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.dll
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\obj\Debug\net6.0\refint\Quadrante.dll
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.pdb
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Quadrante\Quadrante\obj\Debug\net6.0\ref\Quadrante.dll

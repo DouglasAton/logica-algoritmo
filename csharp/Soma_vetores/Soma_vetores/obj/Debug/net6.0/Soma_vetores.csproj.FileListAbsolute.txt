@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\bin\Debug\net6.0\Soma_vetores.exe
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\bin\Debug\net6.0\Soma_vetores.deps.json
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\bin\Debug\net6.0\Soma_vetores.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\bin\Debug\net6.0\Soma_vetores.dll
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\bin\Debug\net6.0\Soma_vetores.pdb
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\obj\Debug\net6.0\Soma_vetores.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\obj\Debug\net6.0\Soma_vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\obj\Debug\net6.0\Soma_vetores.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\obj\Debug\net6.0\Soma_vetores.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\obj\Debug\net6.0\Soma_vetores.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\obj\Debug\net6.0\Soma_vetores.dll
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\obj\Debug\net6.0\refint\Soma_vetores.dll
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\obj\Debug\net6.0\Soma_vetores.pdb
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\obj\Debug\net6.0\Soma_vetores.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Soma_vetores\Soma_vetores\obj\Debug\net6.0\ref\Soma_vetores.dll

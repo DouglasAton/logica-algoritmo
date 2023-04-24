@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\bin\Debug\net6.0\Negativos.exe
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\bin\Debug\net6.0\Negativos.deps.json
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\bin\Debug\net6.0\Negativos.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\bin\Debug\net6.0\Negativos.dll
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\bin\Debug\net6.0\Negativos.pdb
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\obj\Debug\net6.0\Negativos.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\obj\Debug\net6.0\Negativos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\obj\Debug\net6.0\Negativos.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\obj\Debug\net6.0\Negativos.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\obj\Debug\net6.0\Negativos.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\obj\Debug\net6.0\Negativos.dll
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\obj\Debug\net6.0\refint\Negativos.dll
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\obj\Debug\net6.0\Negativos.pdb
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\obj\Debug\net6.0\Negativos.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Negativos\Negativos\obj\Debug\net6.0\ref\Negativos.dll

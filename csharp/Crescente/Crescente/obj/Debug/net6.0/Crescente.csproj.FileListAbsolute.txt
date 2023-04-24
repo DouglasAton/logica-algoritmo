@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\bin\Debug\net6.0\Crescente.exe
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\bin\Debug\net6.0\Crescente.deps.json
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\bin\Debug\net6.0\Crescente.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\bin\Debug\net6.0\Crescente.dll
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\bin\Debug\net6.0\Crescente.pdb
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.dll
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\refint\Crescente.dll
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.pdb
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\ref\Crescente.dll

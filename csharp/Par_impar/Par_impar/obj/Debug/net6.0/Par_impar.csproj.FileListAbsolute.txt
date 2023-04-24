@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\bin\Debug\net6.0\Par_impar.exe
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\bin\Debug\net6.0\Par_impar.deps.json
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\bin\Debug\net6.0\Par_impar.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\bin\Debug\net6.0\Par_impar.dll
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\bin\Debug\net6.0\Par_impar.pdb
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\obj\Debug\net6.0\Par_impar.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\obj\Debug\net6.0\Par_impar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\obj\Debug\net6.0\Par_impar.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\obj\Debug\net6.0\Par_impar.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\obj\Debug\net6.0\Par_impar.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\obj\Debug\net6.0\Par_impar.dll
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\obj\Debug\net6.0\refint\Par_impar.dll
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\obj\Debug\net6.0\Par_impar.pdb
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\obj\Debug\net6.0\Par_impar.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Par_impar\Par_impar\obj\Debug\net6.0\ref\Par_impar.dll

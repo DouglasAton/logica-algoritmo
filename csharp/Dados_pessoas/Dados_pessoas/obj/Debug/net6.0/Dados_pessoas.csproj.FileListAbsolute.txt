@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\bin\Debug\net6.0\Dados_pessoas.exe
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\bin\Debug\net6.0\Dados_pessoas.deps.json
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\bin\Debug\net6.0\Dados_pessoas.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\bin\Debug\net6.0\Dados_pessoas.dll
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\bin\Debug\net6.0\Dados_pessoas.pdb
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\obj\Debug\net6.0\Dados_pessoas.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\obj\Debug\net6.0\Dados_pessoas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\obj\Debug\net6.0\Dados_pessoas.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\obj\Debug\net6.0\Dados_pessoas.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\obj\Debug\net6.0\Dados_pessoas.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\obj\Debug\net6.0\Dados_pessoas.dll
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\obj\Debug\net6.0\refint\Dados_pessoas.dll
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\obj\Debug\net6.0\Dados_pessoas.pdb
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\obj\Debug\net6.0\Dados_pessoas.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Dados_pessoas\Dados_pessoas\obj\Debug\net6.0\ref\Dados_pessoas.dll

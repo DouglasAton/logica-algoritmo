@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\bin\Debug\net6.0\Matriz_geral.exe
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\bin\Debug\net6.0\Matriz_geral.deps.json
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\bin\Debug\net6.0\Matriz_geral.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\bin\Debug\net6.0\Matriz_geral.dll
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\bin\Debug\net6.0\Matriz_geral.pdb
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\obj\Debug\net6.0\Matriz_geral.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\obj\Debug\net6.0\Matriz_geral.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\obj\Debug\net6.0\Matriz_geral.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\obj\Debug\net6.0\Matriz_geral.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\obj\Debug\net6.0\Matriz_geral.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\obj\Debug\net6.0\Matriz_geral.dll
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\obj\Debug\net6.0\refint\Matriz_geral.dll
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\obj\Debug\net6.0\Matriz_geral.pdb
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\obj\Debug\net6.0\Matriz_geral.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Matriz_geral\Matriz_geral\obj\Debug\net6.0\ref\Matriz_geral.dll

@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\bin\Debug\net6.0\Divisao.exe
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\bin\Debug\net6.0\Divisao.deps.json
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\bin\Debug\net6.0\Divisao.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\bin\Debug\net6.0\Divisao.dll
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\bin\Debug\net6.0\Divisao.pdb
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\obj\Debug\net6.0\Divisao.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\obj\Debug\net6.0\Divisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\obj\Debug\net6.0\Divisao.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\obj\Debug\net6.0\Divisao.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\obj\Debug\net6.0\Divisao.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\obj\Debug\net6.0\Divisao.dll
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\obj\Debug\net6.0\refint\Divisao.dll
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\obj\Debug\net6.0\Divisao.pdb
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\obj\Debug\net6.0\Divisao.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Divisao\Divisao\obj\Debug\net6.0\ref\Divisao.dll

@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\bin\Debug\net6.0\Tempo_de_jogo.exe
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\bin\Debug\net6.0\Tempo_de_jogo.deps.json
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\bin\Debug\net6.0\Tempo_de_jogo.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\bin\Debug\net6.0\Tempo_de_jogo.dll
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\bin\Debug\net6.0\Tempo_de_jogo.pdb
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\obj\Debug\net6.0\Tempo_de_jogo.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\obj\Debug\net6.0\Tempo_de_jogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\obj\Debug\net6.0\Tempo_de_jogo.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\obj\Debug\net6.0\Tempo_de_jogo.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\obj\Debug\net6.0\Tempo_de_jogo.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\obj\Debug\net6.0\Tempo_de_jogo.dll
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\obj\Debug\net6.0\refint\Tempo_de_jogo.dll
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\obj\Debug\net6.0\Tempo_de_jogo.pdb
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\obj\Debug\net6.0\Tempo_de_jogo.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Tempo_de_jogo\Tempo_de_jogo\obj\Debug\net6.0\ref\Tempo_de_jogo.dll

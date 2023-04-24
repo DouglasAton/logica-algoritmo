@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.exe
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.deps.json
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.dll
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.pdb
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.dll
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\obj\Debug\net6.0\refint\Fatorial.dll
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.pdb
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Fatorial\Fatorial\obj\Debug\net6.0\ref\Fatorial.dll

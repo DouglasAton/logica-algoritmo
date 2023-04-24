@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\bin\Debug\net6.0\Dardo.exe
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\bin\Debug\net6.0\Dardo.deps.json
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\bin\Debug\net6.0\Dardo.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\bin\Debug\net6.0\Dardo.dll
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\bin\Debug\net6.0\Dardo.pdb
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\obj\Debug\net6.0\Dardo.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\obj\Debug\net6.0\Dardo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\obj\Debug\net6.0\Dardo.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\obj\Debug\net6.0\Dardo.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\obj\Debug\net6.0\Dardo.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\obj\Debug\net6.0\Dardo.dll
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\obj\Debug\net6.0\refint\Dardo.dll
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\obj\Debug\net6.0\Dardo.pdb
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\obj\Debug\net6.0\Dardo.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Dardo\Dardo\obj\Debug\net6.0\ref\Dardo.dll

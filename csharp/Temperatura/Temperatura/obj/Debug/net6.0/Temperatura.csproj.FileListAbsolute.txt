@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.exe
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.deps.json
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.dll
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.pdb
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.dll
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\obj\Debug\net6.0\refint\Temperatura.dll
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.pdb
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Temperatura\Temperatura\obj\Debug\net6.0\ref\Temperatura.dll

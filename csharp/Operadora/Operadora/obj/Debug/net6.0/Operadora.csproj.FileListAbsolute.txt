@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\bin\Debug\net6.0\Operadora.exe
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\bin\Debug\net6.0\Operadora.deps.json
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\bin\Debug\net6.0\Operadora.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\bin\Debug\net6.0\Operadora.dll
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\bin\Debug\net6.0\Operadora.pdb
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\obj\Debug\net6.0\Operadora.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\obj\Debug\net6.0\Operadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\obj\Debug\net6.0\Operadora.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\obj\Debug\net6.0\Operadora.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\obj\Debug\net6.0\Operadora.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\obj\Debug\net6.0\Operadora.dll
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\obj\Debug\net6.0\refint\Operadora.dll
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\obj\Debug\net6.0\Operadora.pdb
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\obj\Debug\net6.0\Operadora.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Operadora\Operadora\obj\Debug\net6.0\ref\Operadora.dll

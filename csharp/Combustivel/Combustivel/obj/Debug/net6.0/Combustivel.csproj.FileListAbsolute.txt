@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\bin\Debug\net6.0\Combustivel.exe
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\bin\Debug\net6.0\Combustivel.deps.json
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\bin\Debug\net6.0\Combustivel.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\bin\Debug\net6.0\Combustivel.dll
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\bin\Debug\net6.0\Combustivel.pdb
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\obj\Debug\net6.0\Combustivel.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\obj\Debug\net6.0\Combustivel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\obj\Debug\net6.0\Combustivel.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\obj\Debug\net6.0\Combustivel.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\obj\Debug\net6.0\Combustivel.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\obj\Debug\net6.0\Combustivel.dll
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\obj\Debug\net6.0\refint\Combustivel.dll
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\obj\Debug\net6.0\Combustivel.pdb
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\obj\Debug\net6.0\Combustivel.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Combustivel\Combustivel\obj\Debug\net6.0\ref\Combustivel.dll

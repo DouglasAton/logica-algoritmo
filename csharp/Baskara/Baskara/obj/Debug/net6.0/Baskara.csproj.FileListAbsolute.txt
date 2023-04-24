@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\bin\Debug\net6.0\Baskara.exe
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\bin\Debug\net6.0\Baskara.deps.json
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\bin\Debug\net6.0\Baskara.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\bin\Debug\net6.0\Baskara.dll
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\bin\Debug\net6.0\Baskara.pdb
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\obj\Debug\net6.0\Baskara.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\obj\Debug\net6.0\Baskara.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\obj\Debug\net6.0\Baskara.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\obj\Debug\net6.0\Baskara.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\obj\Debug\net6.0\Baskara.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\obj\Debug\net6.0\Baskara.dll
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\obj\Debug\net6.0\refint\Baskara.dll
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\obj\Debug\net6.0\Baskara.pdb
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\obj\Debug\net6.0\Baskara.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Baskara\Baskara\obj\Debug\net6.0\ref\Baskara.dll

@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\bin\Debug\net6.0\Negativos_matriz.exe
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\bin\Debug\net6.0\Negativos_matriz.deps.json
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\bin\Debug\net6.0\Negativos_matriz.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\bin\Debug\net6.0\Negativos_matriz.dll
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\bin\Debug\net6.0\Negativos_matriz.pdb
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\obj\Debug\net6.0\Negativos_matriz.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\obj\Debug\net6.0\Negativos_matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\obj\Debug\net6.0\Negativos_matriz.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\obj\Debug\net6.0\Negativos_matriz.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\obj\Debug\net6.0\Negativos_matriz.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\obj\Debug\net6.0\Negativos_matriz.dll
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\obj\Debug\net6.0\refint\Negativos_matriz.dll
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\obj\Debug\net6.0\Negativos_matriz.pdb
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\obj\Debug\net6.0\Negativos_matriz.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Negativos_matriz\Negativos_matriz\obj\Debug\net6.0\ref\Negativos_matriz.dll

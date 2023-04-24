@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\bin\Debug\net6.0\Experiencias.exe
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\bin\Debug\net6.0\Experiencias.deps.json
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\bin\Debug\net6.0\Experiencias.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\bin\Debug\net6.0\Experiencias.dll
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\bin\Debug\net6.0\Experiencias.pdb
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.dll
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\obj\Debug\net6.0\refint\Experiencias.dll
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.pdb
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Experiencias\Experiencias\obj\Debug\net6.0\ref\Experiencias.dll

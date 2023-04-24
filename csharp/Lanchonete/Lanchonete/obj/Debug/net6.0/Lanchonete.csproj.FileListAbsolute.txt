@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\bin\Debug\net6.0\Lanchonete.exe
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\bin\Debug\net6.0\Lanchonete.deps.json
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\bin\Debug\net6.0\Lanchonete.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\bin\Debug\net6.0\Lanchonete.dll
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\bin\Debug\net6.0\Lanchonete.pdb
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\obj\Debug\net6.0\Lanchonete.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\obj\Debug\net6.0\Lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\obj\Debug\net6.0\Lanchonete.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\obj\Debug\net6.0\Lanchonete.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\obj\Debug\net6.0\Lanchonete.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\obj\Debug\net6.0\Lanchonete.dll
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\obj\Debug\net6.0\refint\Lanchonete.dll
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\obj\Debug\net6.0\Lanchonete.pdb
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\obj\Debug\net6.0\Lanchonete.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Lanchonete\Lanchonete\obj\Debug\net6.0\ref\Lanchonete.dll

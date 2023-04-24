@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\bin\Debug\net6.0\Pares_consecutivos.exe
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\bin\Debug\net6.0\Pares_consecutivos.deps.json
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\bin\Debug\net6.0\Pares_consecutivos.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\bin\Debug\net6.0\Pares_consecutivos.dll
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\bin\Debug\net6.0\Pares_consecutivos.pdb
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\obj\Debug\net6.0\Pares_consecutivos.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\obj\Debug\net6.0\Pares_consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\obj\Debug\net6.0\Pares_consecutivos.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\obj\Debug\net6.0\Pares_consecutivos.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\obj\Debug\net6.0\Pares_consecutivos.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\obj\Debug\net6.0\Pares_consecutivos.dll
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\obj\Debug\net6.0\refint\Pares_consecutivos.dll
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\obj\Debug\net6.0\Pares_consecutivos.pdb
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\obj\Debug\net6.0\Pares_consecutivos.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Pares_consecutivos\Pares_consecutivos\obj\Debug\net6.0\ref\Pares_consecutivos.dll

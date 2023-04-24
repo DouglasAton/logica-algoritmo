@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\bin\Debug\net6.0\Numeros_pares.exe
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\bin\Debug\net6.0\Numeros_pares.deps.json
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\bin\Debug\net6.0\Numeros_pares.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\bin\Debug\net6.0\Numeros_pares.dll
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\bin\Debug\net6.0\Numeros_pares.pdb
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\obj\Debug\net6.0\Numeros_pares.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\obj\Debug\net6.0\Numeros_pares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\obj\Debug\net6.0\Numeros_pares.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\obj\Debug\net6.0\Numeros_pares.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\obj\Debug\net6.0\Numeros_pares.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\obj\Debug\net6.0\Numeros_pares.dll
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\obj\Debug\net6.0\refint\Numeros_pares.dll
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\obj\Debug\net6.0\Numeros_pares.pdb
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\obj\Debug\net6.0\Numeros_pares.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Numeros_pares\Numeros_pares\obj\Debug\net6.0\ref\Numeros_pares.dll

@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\bin\Debug\net6.0\Consumo.exe
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\bin\Debug\net6.0\Consumo.deps.json
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\bin\Debug\net6.0\Consumo.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\bin\Debug\net6.0\Consumo.dll
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\bin\Debug\net6.0\Consumo.pdb
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\obj\Debug\net6.0\Consumo.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\obj\Debug\net6.0\Consumo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\obj\Debug\net6.0\Consumo.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\obj\Debug\net6.0\Consumo.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\obj\Debug\net6.0\Consumo.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\obj\Debug\net6.0\Consumo.dll
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\obj\Debug\net6.0\refint\Consumo.dll
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\obj\Debug\net6.0\Consumo.pdb
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\obj\Debug\net6.0\Consumo.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Consumo\Consumo\obj\Debug\net6.0\ref\Consumo.dll

@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\bin\Debug\net6.0\Soma_linhas.exe
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\bin\Debug\net6.0\Soma_linhas.deps.json
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\bin\Debug\net6.0\Soma_linhas.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\bin\Debug\net6.0\Soma_linhas.dll
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\bin\Debug\net6.0\Soma_linhas.pdb
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\obj\Debug\net6.0\Soma_linhas.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\obj\Debug\net6.0\Soma_linhas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\obj\Debug\net6.0\Soma_linhas.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\obj\Debug\net6.0\Soma_linhas.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\obj\Debug\net6.0\Soma_linhas.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\obj\Debug\net6.0\Soma_linhas.dll
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\obj\Debug\net6.0\refint\Soma_linhas.dll
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\obj\Debug\net6.0\Soma_linhas.pdb
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\obj\Debug\net6.0\Soma_linhas.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Soma_linhas\Soma_linhas\obj\Debug\net6.0\ref\Soma_linhas.dll

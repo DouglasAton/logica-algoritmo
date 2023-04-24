@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\bin\Debug\net6.0\Circulo.exe
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\bin\Debug\net6.0\Circulo.deps.json
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\bin\Debug\net6.0\Circulo.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\bin\Debug\net6.0\Circulo.dll
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\bin\Debug\net6.0\Circulo.pdb
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\obj\Debug\net6.0\Circulo.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\obj\Debug\net6.0\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\obj\Debug\net6.0\Circulo.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\obj\Debug\net6.0\Circulo.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\obj\Debug\net6.0\Circulo.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\obj\Debug\net6.0\Circulo.dll
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\obj\Debug\net6.0\refint\Circulo.dll
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\obj\Debug\net6.0\Circulo.pdb
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\obj\Debug\net6.0\Circulo.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Circulo\Circulo\obj\Debug\net6.0\ref\Circulo.dll

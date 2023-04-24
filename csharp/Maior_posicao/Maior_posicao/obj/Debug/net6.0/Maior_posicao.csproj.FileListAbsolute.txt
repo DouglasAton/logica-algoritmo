@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\bin\Debug\net6.0\Maior_posicao.exe
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\bin\Debug\net6.0\Maior_posicao.deps.json
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\bin\Debug\net6.0\Maior_posicao.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\bin\Debug\net6.0\Maior_posicao.dll
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\bin\Debug\net6.0\Maior_posicao.pdb
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\obj\Debug\net6.0\Maior_posicao.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\obj\Debug\net6.0\Maior_posicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\obj\Debug\net6.0\Maior_posicao.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\obj\Debug\net6.0\Maior_posicao.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\obj\Debug\net6.0\Maior_posicao.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\obj\Debug\net6.0\Maior_posicao.dll
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\obj\Debug\net6.0\refint\Maior_posicao.dll
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\obj\Debug\net6.0\Maior_posicao.pdb
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\obj\Debug\net6.0\Maior_posicao.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Maior_posicao\Maior_posicao\obj\Debug\net6.0\ref\Maior_posicao.dll

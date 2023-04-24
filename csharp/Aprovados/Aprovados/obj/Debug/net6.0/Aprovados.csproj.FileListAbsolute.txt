@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\bin\Debug\net6.0\Aprovados.exe
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\bin\Debug\net6.0\Aprovados.deps.json
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\bin\Debug\net6.0\Aprovados.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\bin\Debug\net6.0\Aprovados.dll
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\bin\Debug\net6.0\Aprovados.pdb
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\obj\Debug\net6.0\Aprovados.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\obj\Debug\net6.0\Aprovados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\obj\Debug\net6.0\Aprovados.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\obj\Debug\net6.0\Aprovados.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\obj\Debug\net6.0\Aprovados.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\obj\Debug\net6.0\Aprovados.dll
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\obj\Debug\net6.0\refint\Aprovados.dll
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\obj\Debug\net6.0\Aprovados.pdb
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\obj\Debug\net6.0\Aprovados.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Aprovados\Aprovados\obj\Debug\net6.0\ref\Aprovados.dll

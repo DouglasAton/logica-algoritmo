@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\bin\Debug\net6.0\Cada_linha.exe
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\bin\Debug\net6.0\Cada_linha.deps.json
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\bin\Debug\net6.0\Cada_linha.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\bin\Debug\net6.0\Cada_linha.dll
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\bin\Debug\net6.0\Cada_linha.pdb
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\obj\Debug\net6.0\Cada_linha.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\obj\Debug\net6.0\Cada_linha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\obj\Debug\net6.0\Cada_linha.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\obj\Debug\net6.0\Cada_linha.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\obj\Debug\net6.0\Cada_linha.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\obj\Debug\net6.0\Cada_linha.dll
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\obj\Debug\net6.0\refint\Cada_linha.dll
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\obj\Debug\net6.0\Cada_linha.pdb
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\obj\Debug\net6.0\Cada_linha.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Cada_linha\Cada_linha\obj\Debug\net6.0\ref\Cada_linha.dll

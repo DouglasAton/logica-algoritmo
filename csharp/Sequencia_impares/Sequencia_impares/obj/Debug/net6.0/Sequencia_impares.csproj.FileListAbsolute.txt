@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\bin\Debug\net6.0\Sequencia_impares.exe
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\bin\Debug\net6.0\Sequencia_impares.deps.json
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\bin\Debug\net6.0\Sequencia_impares.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\bin\Debug\net6.0\Sequencia_impares.dll
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\bin\Debug\net6.0\Sequencia_impares.pdb
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\obj\Debug\net6.0\Sequencia_impares.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\obj\Debug\net6.0\Sequencia_impares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\obj\Debug\net6.0\Sequencia_impares.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\obj\Debug\net6.0\Sequencia_impares.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\obj\Debug\net6.0\Sequencia_impares.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\obj\Debug\net6.0\Sequencia_impares.dll
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\obj\Debug\net6.0\refint\Sequencia_impares.dll
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\obj\Debug\net6.0\Sequencia_impares.pdb
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\obj\Debug\net6.0\Sequencia_impares.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Sequencia_impares\Sequencia_impares\obj\Debug\net6.0\ref\Sequencia_impares.dll

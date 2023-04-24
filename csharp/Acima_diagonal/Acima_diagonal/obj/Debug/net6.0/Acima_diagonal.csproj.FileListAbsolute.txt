@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\bin\Debug\net6.0\Acima_diagonal.exe
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\bin\Debug\net6.0\Acima_diagonal.deps.json
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\bin\Debug\net6.0\Acima_diagonal.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\bin\Debug\net6.0\Acima_diagonal.dll
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\bin\Debug\net6.0\Acima_diagonal.pdb
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\obj\Debug\net6.0\Acima_diagonal.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\obj\Debug\net6.0\Acima_diagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\obj\Debug\net6.0\Acima_diagonal.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\obj\Debug\net6.0\Acima_diagonal.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\obj\Debug\net6.0\Acima_diagonal.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\obj\Debug\net6.0\Acima_diagonal.dll
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\obj\Debug\net6.0\refint\Acima_diagonal.dll
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\obj\Debug\net6.0\Acima_diagonal.pdb
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\obj\Debug\net6.0\Acima_diagonal.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Acima_diagonal\Acima_diagonal\obj\Debug\net6.0\ref\Acima_diagonal.dll

@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\bin\Debug\net6.0\Comerciante.exe
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\bin\Debug\net6.0\Comerciante.deps.json
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\bin\Debug\net6.0\Comerciante.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\bin\Debug\net6.0\Comerciante.dll
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\bin\Debug\net6.0\Comerciante.pdb
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\obj\Debug\net6.0\Comerciante.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\obj\Debug\net6.0\Comerciante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\obj\Debug\net6.0\Comerciante.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\obj\Debug\net6.0\Comerciante.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\obj\Debug\net6.0\Comerciante.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\obj\Debug\net6.0\Comerciante.dll
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\obj\Debug\net6.0\refint\Comerciante.dll
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\obj\Debug\net6.0\Comerciante.pdb
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\obj\Debug\net6.0\Comerciante.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Comerciante\Comerciante\obj\Debug\net6.0\ref\Comerciante.dll

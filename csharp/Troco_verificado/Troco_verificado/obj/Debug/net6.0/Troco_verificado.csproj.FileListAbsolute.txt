@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\bin\Debug\net6.0\Troco_verificado.exe
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\bin\Debug\net6.0\Troco_verificado.deps.json
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\bin\Debug\net6.0\Troco_verificado.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\bin\Debug\net6.0\Troco_verificado.dll
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\bin\Debug\net6.0\Troco_verificado.pdb
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\obj\Debug\net6.0\Troco_verificado.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\obj\Debug\net6.0\Troco_verificado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\obj\Debug\net6.0\Troco_verificado.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\obj\Debug\net6.0\Troco_verificado.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\obj\Debug\net6.0\Troco_verificado.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\obj\Debug\net6.0\Troco_verificado.dll
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\obj\Debug\net6.0\refint\Troco_verificado.dll
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\obj\Debug\net6.0\Troco_verificado.pdb
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\obj\Debug\net6.0\Troco_verificado.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Troco_verificado\Troco_verificado\obj\Debug\net6.0\ref\Troco_verificado.dll

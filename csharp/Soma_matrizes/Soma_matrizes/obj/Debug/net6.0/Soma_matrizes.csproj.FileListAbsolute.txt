@@ -1,0 +1,15 @@
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\bin\Debug\net6.0\Soma_matrizes.exe
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\bin\Debug\net6.0\Soma_matrizes.deps.json
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\bin\Debug\net6.0\Soma_matrizes.runtimeconfig.json
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\bin\Debug\net6.0\Soma_matrizes.dll
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\bin\Debug\net6.0\Soma_matrizes.pdb
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\obj\Debug\net6.0\Soma_matrizes.csproj.AssemblyReference.cache
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\obj\Debug\net6.0\Soma_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\obj\Debug\net6.0\Soma_matrizes.AssemblyInfoInputs.cache
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\obj\Debug\net6.0\Soma_matrizes.AssemblyInfo.cs
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\obj\Debug\net6.0\Soma_matrizes.csproj.CoreCompileInputs.cache
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\obj\Debug\net6.0\Soma_matrizes.dll
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\obj\Debug\net6.0\refint\Soma_matrizes.dll
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\obj\Debug\net6.0\Soma_matrizes.pdb
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\obj\Debug\net6.0\Soma_matrizes.genruntimeconfig.cache
+D:\Arquivos C#\ws-vs2022\Soma_matrizes\Soma_matrizes\obj\Debug\net6.0\ref\Soma_matrizes.dll
